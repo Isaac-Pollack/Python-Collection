@@ -1,0 +1,1 @@
+The aim of these project euler challenges was to handle all erroneous input, and utilise clean functions in order to hone my skills. I aimed to increase and base off pseudocode before attempting problems. I will refrain from using dependencies outside of Pythons core modules, so to preserve simulated LTS.
